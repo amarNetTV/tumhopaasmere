@@ -1,6 +1,6 @@
 0;*Beware of scams*Our service is free of cost.*;Top10;US;English;https://archive.org/download/cCloud_20151126/cCloud.mp4;http://www.vernonhills.org/images/pages/N688/Scam-Alert.png;05/09/2016;;Beware of scams. Our service is free of cost.||
 1;*Property of cCloudTV.ORG*;Top10;US;English;https://archive.org/download/cCloud_20151126/cCloud.mp4;http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg;05/09/2016;;Property of cCloudTV.ORG||
-2;Welcome to cCloudTV.ORG (Updated 03-30-2020 11:28:49 EST-US) the future of IPTV.;Announcement;US;English;https://archive.org/download/cCloud_20151126/cCloud.mp4;http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg;03/30/2020;;Welcome to cCloudTV.ORG the future of IPTV.||
+2;Welcome to cCloudTV.ORG (Updated 03-30-2020 11:38:02 EST-US) the future of IPTV.;Announcement;US;English;https://archive.org/download/cCloud_20151126/cCloud.mp4;http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg;03/30/2020;;Welcome to cCloudTV.ORG the future of IPTV.||
 3;*Coders needed*;Top10;US;English;https://archive.org/download/cCloud_20151126/cCloud.mp4;https://i.imgur.com/X4hjOLT.jpg;11/14/2015;;*Coders needed*||
 4;30 Rock Ai;RandomAirTime 24/7;US;English;https://videoserver1.org/live/-yBl_xnTS-fy9f5otC3ZpQ/1585592423/974006f79db4e097ce136f1b66b9770d.m3u8;https://image.tmdb.org/t/p/w370_and_h556_bestv2/k3RbNzPEPW0cmkfkn1xVCTk3Qde.jpg;11/08/2015;;30 Rock Ai||
 5;3rd Rock from the Sun Ai;RandomAirTime 24/7;US;English;https://videoserver1.org/live/R0Y7H-_p39x6GuLTvdgVvw/1585592424/893bc56097146cb69a70ad0e9750ace3.m3u8;https://image.tmdb.org/t/p/w370_and_h556_bestv2/r7C2lGyEc5STQ80Ge9v1FEF8rha.jpg;11/08/2015;;3rd Rock from the Sun Ai||
@@ -757,7 +757,7 @@
 756;South Carolina WIS;News;US;English;https://api.new.livestream.com/accounts/11327981/events/3653563/broadcasts/203754295.secure.m3u8;http://cdn.livestream.com/news/images/wis.png;11/08/2015;;South Carolina WIS||
 757;South Carolina WMBF;News;US;English;https://api.new.livestream.com/accounts/11214123/events/3631975/broadcasts/203754615.secure.m3u8;http://cdn.livestream.com/news/images/wmbf.png;11/08/2015;;South Carolina WMBF||
 758;Tennessee NEWSCHANNEL5;News;US;English;https://api.new.livestream.com/accounts/3827561/events/2074586/videos/156134074.secure.m3u8;http://cdn.livestream.com/news/images/newschannel5.png;11/08/2015;;Tennessee NEWSCHANNEL5||
-759;Tennessee WMCTV;News;US;English;https://api.new.livestream.com/accounts/10894063/events/3579198/broadcasts/203755004.secure.m3u8;http://cdn.livestream.com/news/images/wmctv.png;11/08/2015;;Tennessee WMCTV||
+759;Tennessee WMCTV;News;US;English;https://api.new.livestream.com/accounts/10894063/events/3579198/broadcasts/203766848.secure.m3u8;http://cdn.livestream.com/news/images/wmctv.png;11/08/2015;;Tennessee WMCTV||
 760;Tennessee WREG;News;US;English;https://api.new.livestream.com/accounts/9362263/events/3216953/broadcasts/203755539.secure.m3u8;http://cdn.livestream.com/news/images/wreg.png;11/08/2015;;Tennessee WREG||
 761;Texas KCBD;News;US;English;https://api.new.livestream.com/accounts/11816946/events/3750261/broadcasts/203755665.secure.m3u8;http://cdn.livestream.com/news/images/kcbd.png;11/08/2015;;Texas KCBD||
 762;Texas KDFW;News;US;English;https://api.new.livestream.com/accounts/6395980/events/2598380/broadcasts/203757689.secure.m3u8;http://cdn.livestream.com/news/images/kdfw.png;11/08/2015;;Texas KDFW||
@@ -771,10 +771,10 @@
 770;ABC News CaptainMarvel;News;US;English;https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;ABC News CaptainMarvel||
 771;ABC News CaptainMarvel;News;US;English;https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;ABC News CaptainMarvel||
 772;BBC News CaptainMarvel;News;US;English;http://204.107.27.137/live/27.low.stream/playlist.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;BBC News CaptainMarvel||
-773;CBC News CaptainMarvel;News;US;English;https://1359547862.rsc.cdn77.org/JCiLI0UXlFcMCqdzGthfqg==%2C1585590560/LS-ATL-54548-8/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;CBC News CaptainMarvel||
-774;CNBC America CaptainMarvel;News;US;English;https://1674331492.rsc.cdn77.org/cFOC0NRrLecm0GpGKgKMSg==%2C1585589162/LS-ATL-54548-14/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;CNBC America CaptainMarvel||
+773;CBC News CaptainMarvel;News;US;English;https://1359547862.rsc.cdn77.org/VEylNYv_S_PQsk03r6Mivg==%2C1585591147/LS-ATL-54548-8/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;CBC News CaptainMarvel||
+774;CNBC America CaptainMarvel;News;US;English;https://1674331492.rsc.cdn77.org/Mp2H64WSARUH-kUg7rQyzA==%2C1585589749/LS-ATL-54548-14/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;CNBC America CaptainMarvel||
 775;CNBC Europe CaptainMarvel;News;US;English;https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;CNBC Europe CaptainMarvel||
-776;Fox Business Network CaptainMarvel;News;US;English;https://1329918864.rsc.cdn77.org/RXBqm9ZEPtDBtc8ga6vO8A==%2C1585586766/ls-54548-1/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;Fox Business Network CaptainMarvel||
+776;Fox Business Network CaptainMarvel;News;US;English;https://1329918864.rsc.cdn77.org/n9XJ0-ApIY6daHO2Kgq7Dw==%2C1585587283/ls-54548-1/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;Fox Business Network CaptainMarvel||
 777;MSNBC CaptainMarvel;News;US;English;https://1420543146.rsc.cdn77.org/kI4HHNS7hDM_T8wn0EJ05g==%2C1585587167/LS-ATL-54548-10/index.m3u8;https://i.imgur.com/EkVttjS.jpg;11/14/2015;;MSNBC CaptainMarvel||
 778;How to Sweep in Ccloud;Tutorials;US;English;https://archive.org/download/chchelp/sweepers%20updated.mp4;http://extreme.com/media/img/extreme/tv_guide.png;09/01/2016;;How to Sweep in Ccloud||
 779;How to Upload Tokens to Ccloud Git;Tutorials;US;English;https://archive.org/download/ccloudgit/ccloudgit.mp4;http://extreme.com/media/img/extreme/tv_guide.png;09/01/2016;;How to Upload Tokens to Ccloud Git||
